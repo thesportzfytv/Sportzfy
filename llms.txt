@@ -1,0 +1,17 @@
+# Sportzfy APK Guide
+
+> Sportzfy APK is a sports-focused streaming application designed for Android phones, PC, iOS, and Android TV, providing access to live matches, highlights, and sports channels.
+
+## Core Content & Sections
+
+- [Sportzfy APK Guide](https://thesportzfytv.github.io/Sportzfy/): The main installation, features, and compatibility guide.
+- [Introduction](https://thesportzfytv.github.io/Sportzfy/#introduction): Overview of Sportzfy and covered sports (Cricket, Football, WWE, MLB).
+- [Key Features](https://thesportzfytv.github.io/Sportzfy/#features): Details on UI design, streaming performance, HD/4K support, multi-language commentary, and stability.
+- [Categories](https://thesportzfytv.github.io/Sportzfy/#categories): Breakdown of Live Events, Match Replays, Sports Channels, and TV Viewing.
+- [Installation Guide](https://thesportzfytv.github.io/Sportzfy/#installation): Step-by-step instructions for installing the APK on Android and Android TV.
+
+## Key Information
+
+- Target Platforms: Android, Android TV, PC, iOS
+- Main Features: Glassy UI, HD/4K streaming, low latency, smart match reminders, multi-language commentary
+- Main Official Site: https://thesportzfytv.com/
